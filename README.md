@@ -11,7 +11,8 @@ Q：2645542961
 ![image](https://user-images.githubusercontent.com/73727649/122732972-56110d80-d2af-11eb-81ea-b55bd8f92aef.png)
 ![image](https://user-images.githubusercontent.com/73727649/122732987-58736780-d2af-11eb-96e7-f56bb67c65b4.png)
 通过调试，找到各个参数需要的call。然后这个理解了的话，比如自动收款，也就通了。
-![image](https://user-images.githubusercontent.com/73727649/122733067-6a550a80-d2af-11eb-8767-8837eca08601.png)
+![image](https://user-images.githubusercontent.com/73727649/122733396-b7d17780-d2af-11eb-9e6b-c1a80997573c.png)
+
 目前已经实现了很多有趣的功能，运行稳定，比如：发各种消息，
 接收各种消息，群管，下载文件，加好友，检测僵尸粉等等功能，
 可提供接口，方便各种语言二次开发，欢迎技术交流，Q：2645542961
